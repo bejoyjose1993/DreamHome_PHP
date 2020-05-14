@@ -1,0 +1,218 @@
+/* Style the tab */
+
+
+.tab_main {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+
+/* Style the buttons inside the tab */
+.tab_main button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab_main button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab_main button.active {
+    background-color: #ccc;
+}
+
+.ucc_logo_header { 
+	padding:20px; 
+	height:100%;
+} 
+
+.ucc_logo_header .logo_img {
+  float: left;
+  width: 260px;
+  height: 90px;
+  background: #555;
+}
+
+.ucc_logo_header h1 {
+ 	position: relative;
+ 	font-family: 'Playfair Display', serif;
+ 	font-size: 60px;
+  	width: 500px;
+  	bottom: 15px;
+  	top: 1px;
+  	color: #7B3F00;
+  	height: 100px;
+  	display: inline;
+  	left: 160px;
+}
+.ucc_logo_header .home_img {
+  	position: relative;  
+  	left: 150px;
+	float: left;
+  	width: 170px;
+  	height: 80px;
+  	bottom: 20px;
+  	background: #555;
+}
+
+
+
+
+.side_tab {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 11%;
+  height: 970px;
+  box-sizing: border-box;
+}
+
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 89%;
+  border-left: none;
+  height: 970px;
+  box-sizing: border-box;
+}
+
+/* Style the buttons inside the tab */
+.side_tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 22px 20px;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.side_tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.side_tab button.active {
+  background-color: #ccc;
+}
+.innerContent {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.inline-div {
+  margin: 5px 10px 5px 0;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.inline-div input{
+  margin: 0px 10px 0px 10px;
+  width: 200px;
+  line-height: 26px;
+}
+
+.hypers li{
+  display: inline;
+}
+
+#propertyFetchContainer {
+width: 960px;
+height: 100px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+
+#staffFetchContainer {
+width: 960px;
+height: 80px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+
+#container {
+width: 960px;
+height: 700px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+
+#querycontainer {
+height: 120px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+
+#queryStaffcontainer {
+height: 225px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+
+#branchInsertcontainer {
+width: 960px;
+height: 370px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+	
+#branchUpdateContainer {
+width: 960px;
+height: 275px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}		
+
+#deleteContainer {
+width: 960px;
+height: 80px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}		
+
+#staffInsertContainer {
+width: 960px;
+height: 670px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+
+#staffUpdateContainer {
+width: 960px;
+height: 170px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+
+#propertyInsertContainer {
+width: 960px;
+height: 850px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+#tableHeader {
+height: 50px;
+background: #975b02 -webkit-gradient(linear, left top, left bottom, from(#552B00), to(#EEAE6B)) no-repeat;
+}
+.fieldPadding {
+	padding: 5px;
+}
+
+.confMessage {
+	margin: 1em 0 0.5em 0;
+	color: #975b02;
+	font-size: 26px;
+	line-height: 40px;
+	font-weight: bold;
+	font-family: 'Josefin Sans', sans-serif;
+}
