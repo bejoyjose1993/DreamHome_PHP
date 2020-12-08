@@ -5,7 +5,7 @@ The miniproject's major motivation was to create a precise and accurate content 
 
 
 
-<h2 id="test_bed_architecture">Home Page (Online Phase)</h2>
+<h2 id="test_bed_architecture">Home Page (PHP)</h2>
 Following depects the homepage of the priject.
 
-![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Delete_1.jpg)
+![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_1.jpg)
