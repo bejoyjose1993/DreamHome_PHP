@@ -9,4 +9,4 @@ in a very challenging underground car park environment. To achieve our goals a t
 <h2 id="test_bed_architecture">1.1 Testbed And Architecture (Online Phase)</h2>
 Our testbed has been set up inside an underground basement car park. The car park consisted of 46 parking slots, out of which 2 are disabled parking spaces. It consists of a single entrance and exit gate and has two building entrances. The entire parking area can be subdivided into 17 alphabetic blocks. Apart from blocks F, G, J, and Q, all other 13 blocks contain three parking slots each. F and J consist of 2 slots, whereas G and Q contain 1. G1 and K1 are reserved disabled parking slots. The block and slot naming are created such that users can locate and perform seamless navigation inside the testbed. The Following captures the 3D view of the carpark chosen as the Testbed.
 
-![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/PHP/Dreamhome_Delete_1.jpg)
+![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Delete_1.jpg)
