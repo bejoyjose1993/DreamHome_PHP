@@ -16,6 +16,8 @@ The client can use the application to fetch property data using corresponding pr
 In the below example we will retrive property information using property number.
 
 <h2 id="overview"> Step 1 (Select Property Tab) </h2>
+
+![Image of Home Page](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_1.jpg)
 ![Image of Fetch Functionality](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_1.jpg)
 <h2 id="overview"> Step 2 (Select Property Number) </h2>
 ![Image of Fetch Method](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_1.jpg)
