@@ -16,10 +16,10 @@ The client can use the application to fetch property data using corresponding pr
 In the below example we will retrive property information using property number.
 
 <h2 id="overview"> Step 1 (Select Property Tab) </h2>
-![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_2.jpg)
+![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_1.jpg)
 <h2 id="overview"> Step 2 (Select Property Number) </h2>
-![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_2.jpg)
-# Step 3 (Fetched Results)
+![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_1.jpg)
+<h2 id="overview"> Step 3 (Fetched Results) </h2>
 ![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_Results_1.jpg)
 
 
