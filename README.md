@@ -8,7 +8,7 @@ The miniproject's major motivation was to create a precise and accurate content 
 <h2 id="test_bed_architecture">Home Page (PHP)</h2>
 Following image show the home page of the Web Application.
 
-![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_1.jpg)
+![Image of Home Page](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_1.jpg)
 
 <h2 id="test_bed_architecture">Application Features</h2>
 
@@ -16,10 +16,10 @@ The client can use the application to fetch property data using corresponding pr
 In the below example we will retrive property information using property number.
 
 <h2 id="overview"> Step 1 (Select Property Tab) </h2>
-![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_1.jpg)
+![Image of Fetch Functionality](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_1.jpg)
 <h2 id="overview"> Step 2 (Select Property Number) </h2>
-![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_1.jpg)
+![Image of Fetch Method](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_1.jpg)
 <h2 id="overview"> Step 3 (Fetched Results) </h2>
-![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_Results_1.jpg)
+![Image of Fetch Results](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_Results_1.jpg)
 
 
