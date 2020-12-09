@@ -8,11 +8,16 @@ The miniproject's major motivation was to create a precise and accurate content 
 <h2 id="test_bed_architecture">Home Page (PHP)</h2>
 Following image show the home page of the Web Application.
 
-![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_1.jpg)
+![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_1.jpg)
 
 <h2 id="test_bed_architecture">Features</h2>
-The client can use the application to fetch property data using corresponding property number or Branch number, as shown below
-
+The client can use the application to fetch property data using corresponding property number or Branch number, as follows
+In the below example we will retrive property information using property number.
+# Step 1 (Select Property Tab)
 ![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_2.jpg)
+# Step 2 (Select Property Number)
+![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_2.jpg)
+# Step 3 (Fetched Results)
+![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_Results_1.jpg)
 
 
