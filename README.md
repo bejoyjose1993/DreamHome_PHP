@@ -6,6 +6,13 @@ The miniproject's major motivation was to create a precise and accurate content 
 
 
 <h2 id="test_bed_architecture">Home Page (PHP)</h2>
-Following depects the homepage of the priject.
+Following image show the home page of the Web Application.
 
 ![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Fetch_1.jpg)
+
+<h2 id="test_bed_architecture">Features</h2>
+The client can use the application to fetch property data using corresponding property number or Branch number, as shown below
+
+![Image of Testbed](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Home_2.jpg)
+
+
