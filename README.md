@@ -32,10 +32,10 @@ In the below example we will retrive property information using property number.
 
 ![Image of Fetch Results](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Insert_1.jpg)
 
-<h2 id="overview"> Delete DAta</h2>
+<h2 id="overview"> Delete Data</h2>
 
 ![Image of Fetch Results](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Update_1.jpg)
 
-<h2 id="overview"> Update DAta</h2>
+<h2 id="overview"> Update Data</h2>
 
 ![Image of Fetch Results](https://github.com/bejoyjose1993/DreamHome_PHP/blob/master/PHP/Dreamhome_Delete_1.jpg)
